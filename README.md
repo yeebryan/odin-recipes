@@ -1,1 +1,2 @@
 # odin-recipes
+I learn how to create repository and link it from Github to my local machine. I also learn how to create folder and file through terminal. Finally, I learn that git status allow me see if my file is staged or not. If not, I will need to write git add filename.txt to get it to staging area
